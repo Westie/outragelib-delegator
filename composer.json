@@ -1,0 +1,19 @@
+{
+    "name": "westie/outragelib-delegator",
+    "type": "library",
+    "description": "OUTRAGElib test",
+    
+    "version": "dev",
+ 	
+    "authors": [
+        {
+            "name": "David Weston",
+            "email": "westie@typefish.co.uk",
+            "homepage": "http://www.typefish.co.uk"
+        }
+    ],
+    
+    "autoload": {
+        "psr-4": { "OUTRAGElib\\": "./lib" }
+    }
+}
